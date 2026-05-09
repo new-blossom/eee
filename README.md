@@ -1,5 +1,5 @@
 # eee
-![eris's effective editor](images/logo/fulltext-clr.png)
+![eris's effective editor](images/logo/fulltext-clr.png)  
 version 0.1.0 (indev), 2026/05/08
 
 > [!WARNING]  
