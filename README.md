@@ -3,6 +3,12 @@
 version 0.1.0 (indev), 2026/05/08
 
 > [!WARNING]  
-> this software is currently in a very early designing stage and is not suitable for daily use.
+> This software is currently in a very early designing stage and is not suitable for daily use.
 
 eris's effective editor is a regular, no-crap code editor for humans.
+
+## Concept renders
+
+These renders may not be accurate to the final product.
+
+![welcome screen](docs/images/welcome-concept-render.png)
